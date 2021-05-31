@@ -36,7 +36,7 @@ I'm Kaustubh Verma, a Full Stack Web Developer and First Year student pursing BT
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mekaustubh28.mekaustubh28)
 
 #### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mekaustubh28)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mekaustubh28&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Coding Stats
 <!--START_SECTION:waka-->
