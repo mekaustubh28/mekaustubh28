@@ -40,5 +40,7 @@ I'm Kaustubh Verma, a Full Stack Web Developer and First Year student pursing BT
 
 #### Coding Stats
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
