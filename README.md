@@ -27,9 +27,6 @@ I'm Kaustubh Verma, a Full Stack Web Developer and First Year student pursing BT
 [![Python Badge](https://img.shields.io/badge/-Python-3d83be?style=for-the-badge&labelColor=black&logo=python&logoColor=ffd343)](#)
 [![Django Badge](https://img.shields.io/badge/-Django-44B78B?style=for-the-badge&labelColor=black&logo=django&logoColor=44b78b)](#)
 
-<br />
-<br />
-
 #### Work Realted
 
 - **personal ID**: vermakaustubh28@gmail.com
