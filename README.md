@@ -41,9 +41,9 @@ I'm Kaustubh Verma, a Full Stack Web Developer and First Year student pursing BT
 #### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-HTML         18 hrs 19 mins  █████████████▒░░░░░░░░░░░   53.66 % 
-Python       15 hrs 17 mins  ███████████▒░░░░░░░░░░░░░   44.79 % 
-JavaScript   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-SCSS         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+HTML         15 hrs 1 min    █████████████▒░░░░░░░░░░░   52.76 % 
+Python       13 hrs 15 mins  ███████████▓░░░░░░░░░░░░░   46.58 % 
+SCSS         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 <!--END_SECTION:waka-->
