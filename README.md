@@ -1,6 +1,6 @@
 ## Hi I'm Kaustubh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi:)">
 
-I'm Kaustubh Verma, a Full Stack Web Developer and First Year student pursing BTech in Mathematics and Computing from [NIT Hamirpur](https://nith.ac.in/).
+I'm Kaustubh Verma, a Full Stack Web Developer and Sophomore pursing BTech in Mathematics and Computing from [NIT Hamirpur](https://nith.ac.in/).
 
 :mailbox: Contact Me at-
 
