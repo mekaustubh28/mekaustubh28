@@ -41,10 +41,10 @@ I'm Kaustubh Verma, a Full Stack Web Developer and Sophomore pursing BTech in Ma
 #### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-HTML         2 hrs 47 mins   ███████████░░░░░░░░░░░░░░   44.61 % 
-C++          1 hr 30 mins    ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-CSS          1 hr 3 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Text         41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-JavaScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+HTML         3 hrs 46 mins   █████████████░░░░░░░░░░░░   51.64 % 
+C++          1 hr 30 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.72 % 
+CSS          1 hr 4 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Text         42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 <!--END_SECTION:waka-->
