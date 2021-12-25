@@ -41,10 +41,10 @@ I'm Kaustubh Verma, a Full Stack Web Developer and Sophomore pursing BTech in Ma
 #### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Docker   1 hr 23 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.35 % 
-C++      1 hr 1 min      █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-Text     47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Python   37 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-YAML     30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+Docker   1 hr 23 mins    ███████▒░░░░░░░░░░░░░░░░░   29.71 % 
+Text     47 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Python   37 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+YAML     30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+C++      26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 ```
 <!--END_SECTION:waka-->
