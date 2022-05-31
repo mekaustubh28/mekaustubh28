@@ -6,7 +6,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/-Personal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vermakaustubh28@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-CollegeID-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:20bma026@nith.ac.in)
-[![Linkedin Badge](https://img.shields.io/badge/-vermakaustubh28-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vermakaustubh28/) [![Mail Badge](https://img.shields.io/badge/-@v_kosco_28-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/v_kosco_28/)
+[![Linkedin Badge](https://img.shields.io/badge/-vermakaustubh28-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vermakaustubh28/) [![Mail Badge](https://img.shields.io/badge/-@kaustubh28_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/v_kosco_28/)
 
 
 <!-- TODO: Add last video link -->
