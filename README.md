@@ -31,7 +31,7 @@
 
 - **personal ID**: vermakaustubh28@gmail.com
 - **college ID**: 20bma026@nith.ac.in
-
+[![GargiDhawan01's GitHub | Languages Over Time](https://stats.quine.sh/GargiDhawan01/languages-over-time?theme=dark)](https://quine.sh)
 #### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mekaustubh28.mekaustubh28)
 
